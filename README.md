@@ -23,7 +23,7 @@ Data Processing: Pandas<br>
 Visualization: Plotly<br>
 ## 🚀 How to Run Locally
 # 1. Clone the repository
- git clone: https://github.com/khushnumakhan5454-png/InsightSphere-Data-Analytics-Dashboard/new/main?readme=1 <br>
+ - <a herf "https://github.com/khushnumakhan5454-png/InsightSphere-Data-Analytics-Dashboard/new/main?readme=1"> Git Clone </a> <br>
  cd: InsightSphere: Data analytics Dashboard
 # 2. Install dependencies
  pip install -r requirements.txt
@@ -49,4 +49,4 @@ InsightSphere is designed for:<br>
  Advanced KPI metrics<br>
  Real-time data integration<br>
 ## 🌐 Live Demo
-link= href <a>https://insightsphere-data-analytics-dashboard-b3he5vvgsihybjj282vdkg.streamlit.app/</a>
+- <a herf "https://insightsphere-data-analytics-dashboard-b3he5vvgsihybjj282vdkg.streamlit.app/"> Demo </a>
