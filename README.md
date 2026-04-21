@@ -48,3 +48,5 @@ InsightSphere is designed for:<br>
  Multi-page dashboard<br>
  Advanced KPI metrics<br>
  Real-time data integration<br>
+## 🌐 Live Demo
+link= href <a>https://insightsphere-data-analytics-dashboard-b3he5vvgsihybjj282vdkg.streamlit.app/</a>
