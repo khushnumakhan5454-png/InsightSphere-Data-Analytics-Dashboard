@@ -23,7 +23,7 @@ Data Processing: Pandas<br>
 Visualization: Plotly<br>
 ## 🚀 How to Run Locally
 # 1. Clone the repository
- - <a herf "https://github.com/khushnumakhan5454-png/InsightSphere-Data-Analytics-Dashboard/new/main?readme=1"> Git Clone </a> <br>
+ - <a herf "https://github.com/khushnumakhan5454-png/InsightSphere-Data-Analytics-Dashboard"> Git Clone </a> <br>
  cd: InsightSphere: Data analytics Dashboard
 # 2. Install dependencies
  pip install -r requirements.txt
