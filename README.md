@@ -49,4 +49,4 @@ InsightSphere is designed for:<br>
  Advanced KPI metrics<br>
  Real-time data integration<br>
 ## 🌐 Live Demo
-- <a herf "https://insightsphere-data-analytics-dashboard-b3he5vvgsihybjj282vdkg.streamlit.app/"> Demo </a>
+- <a href="https://insightsphere-data-analytics-dashboard-d57y2jbmccmd9bvcgtz8ox.streamlit.app/"> Demo </a>
